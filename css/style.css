@@ -1,0 +1,8 @@
+html,body,header, #intro{
+    height: 100vh;
+}
+#intro{
+    background: url("../img/background-fone.jpeg");
+    -webkit-background-size: cover;
+    background-size: cover;
+}
