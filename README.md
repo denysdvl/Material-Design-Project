@@ -7,4 +7,5 @@ _You **can** combine this with your web project_
 the template is completely made through **Material Bootstrap**
 which allows you to make a beautiful adaptive look of the site  
 
-**Evaluate the design you can watch the demo .**https://denysdvl.github.io/Material-Design-Project/
+**Evaluate the design you can watch the demo .**
+https://denysdvl.github.io/Material-Design-Project/
