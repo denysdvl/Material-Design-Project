@@ -2,7 +2,7 @@
         
 _You **can** combine this with your web project_
 
-*It's a beautiful template in white style. *
+*It's a beautiful template in white style.*
 
 the template is completely made through **Material Bootstrap**
 which allows you to make a beautiful adaptive look of the site  
